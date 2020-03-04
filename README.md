@@ -4,14 +4,14 @@ Display COVID-19 cases in your terminal on start.
 
 ## fish  
 
-Move files to directorires (root of this repository is user home directory).
+1. Move files to directorires (root of this repository is user home directory).
 
-First go to home directory.
-```sh
-cd 
-```
+2. First go to home directory.
+    ```sh
+    cd 
+    ```
 
-Then make .sh script executable by user e.g. by
-```sh
-sudo chmod +x ./get_covid19_cases.sh
-```
+3. Then make .sh script executable by user e.g. by
+    ```sh
+    sudo chmod +x ./get_covid19_cases.sh
+    ```
