@@ -8,5 +8,5 @@ Display COVID-19 cases in your terminal on start.
 
 2. Then make .sh script executable by user e.g. by
     ```sh
-    sudo chmod +x ~/get_covid19_cases.sh
+    sudo chmod +x ~/get_covid19_cases*.sh
     ```
